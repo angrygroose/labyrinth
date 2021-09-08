@@ -1,8 +1,8 @@
-### labyrinth
+# labyrinth
 An extremely simple random-maze-generated game made using C++ with SDL2.0 library.
 
 ## Game details
-  # Gameplay
+  ### Gameplay
     You find yourself trapped in a maze, there is only one way out through a secret door.
     You'll encounter through your journey to freedom dangerous viruses that will worsen your health.
       The Weak Virus:
@@ -15,7 +15,7 @@ An extremely simple random-maze-generated game made using C++ with SDL2.0 librar
     Disinfectant gels can save you against Covid-19 viruses. Though these will not increase your hp!
     
     
-  # Features
+  ### Features
     - user can provide the size of the maze
     - each round the maze is randomly generated
     - you can access any case in the maze as long as it is not a wall
