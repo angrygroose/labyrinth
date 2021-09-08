@@ -16,12 +16,12 @@ An extremely simple random-maze-generated game made using C++ with SDL2.0 librar
     
     
   ### Features
-    - user can provide the size of the maze
-    - each round the maze is randomly generated
-    - you can access any case in the maze as long as it is not a wall
-    - user chooses the initial position and direction of the player
-    - user chooses the initial position of the viruses and the health potions
-    - user chooses the position of the exit point
+   - user can provide the size of the maze
+   - each round the maze is randomly generated
+   - you can access any case in the maze as long as it is not a wall
+   - user chooses the initial position and direction of the player
+   - user chooses the initial position of the viruses and the health potions
+   - user chooses the position of the exit point
     
 ## What this game lacks
   - sounds
@@ -33,8 +33,8 @@ An extremely simple random-maze-generated game made using C++ with SDL2.0 librar
   - proper crossplatform support
 
 ## How to install
-  - install SDL2.0 (see official webpage for the how-to)
-  - run these commands in root directory:
+    - install SDL2.0 (see official webpage for the how-to)
+    - run these commands in root directory:
         make
         ./game
         
