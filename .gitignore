@@ -1,2 +1,4 @@
 *.o
 ./game
+./build/*.o
+.vscode/
