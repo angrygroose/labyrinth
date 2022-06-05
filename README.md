@@ -18,7 +18,7 @@ The Weak Virus:
 Covid-19 Virus:
 - Once encountered, this virus will reduce your hp by 3.
 - A 60 seconds timer will be set-up. You should find a disinfectant gel ASAP!
-- 
+
 Fortunatly, there are hepfull stuff on the way. Potions can restore your health. If you encounter one,
 your hp will be boosted by 1.
 
