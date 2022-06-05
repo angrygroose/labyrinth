@@ -11,13 +11,17 @@ to read its code and understand it.
 ![Gameplay GIF][gameplay_gif]
 You find yourself trapped in a maze, there is only one way out through a secret door.
 You'll encounter through your journey to freedom dangerous viruses that will worsen your health.
+
 The Weak Virus:
-Once encountered, this virus will reduce your hp by one.
+- Once encountered, this virus will reduce your hp by one.
+
 Covid-19 Virus:
-Once encountered, this virus will reduce your hp by 3.
-A 60 seconds timer will be set-up. You should find a disinfectant gel ASAP!
+- Once encountered, this virus will reduce your hp by 3.
+- A 60 seconds timer will be set-up. You should find a disinfectant gel ASAP!
+- 
 Fortunatly, there are hepfull stuff on the way. Potions can restore your health. If you encounter one,
 your hp will be boosted by 1.
+
 Disinfectant gels can save you against Covid-19 viruses. Though these will not increase your hp!
     
     
@@ -29,7 +33,7 @@ Disinfectant gels can save you against Covid-19 viruses. Though these will not i
 - user chooses the initial position of the viruses and the health potions
 - user chooses the position of the exit point
     
-## What this game lacks
+### What this game lacks
   - sounds
   - proper menu
   - interesting gameplay
@@ -38,10 +42,13 @@ Disinfectant gels can save you against Covid-19 viruses. Though these will not i
   - dynamic environment
   - proper crossplatform support
 
-## How to install
+### How to install
     - install SDL2.0 (see official webpage for the how-to)
     - run these commands in root directory:
         make
         ./game
         
+### License
+MIT. See [LICENSE](https://github.com/walcht/labyrinth/blob/master/LICENSE.txt) for details.
+
 [gameplay_gif]: gifs/gameplay.gif
