@@ -42,13 +42,13 @@ Disinfectant gels can save you against Covid-19 viruses. Though these will not i
   - dynamic environment
   - proper crossplatform support
 
-### How to install
+## How to install
     - install SDL2.0 (see official webpage for the how-to)
     - run these commands in root directory:
         make
         ./game
         
-### License
+## License
 MIT. See [LICENSE](https://github.com/walcht/labyrinth/blob/master/LICENSE.txt) for details.
 
 [gameplay_gif]: gifs/gameplay.gif
